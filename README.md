@@ -1,5 +1,7 @@
 # Introduction to Machine Learning for Learning Analytics
 
+### Instructors: Alfred Essa, Lalitha Agnihotri
+
 ## Summary
 
 The hands-on workshop will provide a rigorous introduction to machine learning for learning analytics practitioners. Participants will learn to use <i>python</i> along with key data science libraries such as pandas, scikitlrn, statsmodels, and tensorflow. The workshop will consist of four parts: a) python refresher; b) data science fundamentals; c) machine learning; and d) deep learning. Data sets and methodologies will emphasize current problems and challenges in learning analytics. 
