@@ -2,11 +2,15 @@
 
 ## Summary
 
-The hands-on workshop will provide a rigorous introduction to machine learning for learning analytics practitioners. Participants will use python along with key data science libraries such as pandas, scikitlrn, statsmodels, and tensorflow. The workshop will consist of four parts: a) python refresher; b) data science fundamentals; c) machine learning; and d) deep learning. Data sets and methodologies will emphasize current problems and challenges in learning analytics. 
+The hands-on workshop will provide a rigorous introduction to machine learning for learning analytics practitioners. Participants will learn to use <i>python</i> along with key data science libraries such as pandas, scikitlrn, statsmodels, and tensorflow. The workshop will consist of four parts: a) python refresher; b) data science fundamentals; c) machine learning; and d) deep learning. Data sets and methodologies will emphasize current problems and challenges in learning analytics. 
 
 ## Target Audience, Prerequisites
 
-Participant should know basic python. A self-contained basic python course (approximately 5 hours) will be made available to participants in early April. Participants are highly encouraged to take the course or complete the assessments to evaluate their level of proficiency in basic python. The basic python course will also contain a brief introduction to the Jupyter Notebook environment.  The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
+Participant should know basic python. A self-contained basic python course (approximately 5 hours) will be made available to participants in early April. Participants are highly encouraged to take the online course or complete the assessments to evaluate their level of proficiency in basic python. The basic python course will also contain a brief introduction to the Jupyter Notebook environment.  The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. The workshop will make extensive use of Jupyter Notebooks.
+
+## Pedagogy, Activities
+
+Proficiency in machine learning requires skill sets in computation, mathematics, and statistics. Because this can be a very heavy lift for novices
 
 # Syllabus
 
