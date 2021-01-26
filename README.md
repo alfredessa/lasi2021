@@ -10,7 +10,9 @@ Participant should know basic python. A self-contained basic python course (appr
 
 ## Pedagogy, Activities
 
-Proficiency in machine learning requires skill sets in computation, mathematics, and statistics. Because this can be a very heavy lift for novices our approach emphasizes a three step learning process: concept, theory, and practice. The concept step presents the intuition; the theory step elaborates the intuition formally; the practice step synthesizes the learning with live code.
+Proficiency in machine learning requires skill sets in computation, mathematics, and statistics. Because machine learning can be a very heavy lift for novices, our approach emphasizes a three step learning process: concept, theory, and practice. The concept step presents the intuition; the theory step elaborates the intuition formally; the practice step synthesizes the learning with live code. Each machine learning module will culminate in a case study. Participants will work in teams to work on the case study.
+
+The entire workshop is structured with learning objectives. Corresponding to each learning objective there are aligned activities and assessments. After the workshop participants will have full access to an online environment containing course instructional materials and follow-up learning activities.
 
 # Syllabus
 
@@ -18,18 +20,23 @@ Proficiency in machine learning requires skill sets in computation, mathematics,
 ## Part I: Python Refresher
 
   * Python Basics
-  * 
+  * Special Topics in Intermediate Python
 
 
 ## Part II: Data Science Fundamentals
 
   * Data operations with Pandas
+
   * Data visualization with Matplotlib and Seaborn
   
 ## Part III: Statistics for Learning Analytics
+
   * Basic Descriptive Statistics
+
   * p-values
+
   * Confidence Intervals
+
   * Effect Sizes
   
 ## Part III: Machine Learning
@@ -52,16 +59,25 @@ Proficiency in machine learning requires skill sets in computation, mathematics,
   * Topics in Model Development
 
     * Test/Train Split; Bias-Variance Tradeoff; K-Fold
+
     * Evaluating Regression Models: R2
+
     * Evaluating Classification MOdels: Confusion Matrix
     
     
 ## Part IV: Deep Learning
+
    * Neurons
+
    * Layers
+
    * Forward Propagation
+
    * Cost/Loss Function
+
    * Backward Propagation, Stochastic Gradient Descent
+   
+   * Deep Learning Case Study
 
   
   
