@@ -6,20 +6,19 @@ The hands-on workshop will provide a rigorous introduction to machine learning f
 
 ## Target Audience, Prerequisites
 
-Participant should know basic python. A self-contained basic python course (approximately 5 hours) will be made available to participants in early April. Participants are highly encouraged to take the online course or complete the assessments to evaluate their level of proficiency in basic python. The basic python course will also contain a brief introduction to the Jupyter Notebook environment.  The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. The workshop will make extensive use of Jupyter Notebooks.
+Participant should know basic python. A self-contained basic python course (approximately 5 hours) will be made available to participants in early April. Participants are highly encouraged to take the online course or complete the assessments to evaluate their level of proficiency. The basic python course will also contain a brief introduction to the Jupyter Notebook environment.  The Jupyter Notebook is an open-source web application for creatong and sharing documents with live code, equations, visualizations and narrative text. The workshop will make extensive use of the Jupyter Notebook environment.
 
 ## Pedagogy, Activities
 
-Proficiency in machine learning requires skill sets in computation, mathematics, and statistics. Because this can be a very heavy lift for novices
+Proficiency in machine learning requires skill sets in computation, mathematics, and statistics. Because this can be a very heavy lift for novices our approach emphasizes a three step learning process: concept, theory, and practice. The concept step presents the intuition; the theory step elaborates the intuition formally; the practice step synthesizes the learning with live code.
 
 # Syllabus
 
 
 ## Part I: Python Refresher
 
-
-
-
+  * Python Basics
+  * 
 
 
 ## Part II: Data Science Fundamentals
@@ -37,13 +36,21 @@ Proficiency in machine learning requires skill sets in computation, mathematics,
 
 
   * What is Machine Learning?
+
   * Simple Linear Regression (regression)
+
   * K Nearest Neighbor (classification)
+
   * Multiple Linear Regression (regression)
+
   * Logistic Regression (classification)
+
   * K Means Clustering (unsupervised learning)
+
   * Natural Language Processing
+
   * Topics in Model Development
+
     * Test/Train Split; Bias-Variance Tradeoff; K-Fold
     * Evaluating Regression Models: R2
     * Evaluating Classification MOdels: Confusion Matrix
