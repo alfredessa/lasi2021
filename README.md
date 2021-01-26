@@ -1,11 +1,14 @@
-# Applied Machine Learning Bootcamp for Learning Analytics
+# Applied Machine Learning for Learning Analytics
 
-<b>Summary</b>: The hands-on workshop will provide a rigorous introduction to machine learning for learning analytics practitioners. We will use python as the programming language but introduce key libraries including numpy, pandas, matplotlib, seaborn, scikitlrn, statsmodels, keras, and tensorflow. The workshop will consist of four parts: a) python refresher; b) data science fundamentals; c) machine learning; and d) deep learning. Data sets and methodologies will be 
+## Summary
 
+The hands-on workshop will provide a rigorous introduction to machine learning for learning analytics practitioners. Participants will use python along with key data science libraries such as pandas, scikitlrn, statsmodels, and tensorflow. The workshop will consist of four parts: a) python refresher; b) data science fundamentals; c) machine learning; and d) deep learning. Data sets and methodologies will emphasize current problems and challenges in learning analytics. 
 
+## Target Audience
 
+Participantsshould know basic python. A self-contained basic python course (approximately 5 hours) will be made available to participants in early April. Participants are highly encouraged to take the course or complete the assessments to evaluate their level of proficiency.  
 
-# Course Topics
+# Syllabus
 
 
 ## Part I: Python Refresher
