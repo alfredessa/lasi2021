@@ -1,4 +1,4 @@
-# Applied Machine Learning for Learning Analytics
+# Introduction to Machine Learning for Learning Analytics
 
 ## Summary
 
