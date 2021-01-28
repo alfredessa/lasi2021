@@ -66,24 +66,8 @@ The entire workshop is structured with learning objectives. Corresponding to eac
 
     * Evaluating Classification MOdels: Confusion Matrix
     
-    
-## Part IV: Deep Learning
-
-   * Neurons
-
-   * Layers
-
-   * Forward Propagation
-
-   * Cost/Loss Function
-
-   * Backward Propagation, Stochastic Gradient Descent
-   
-   * Deep Learning Case Study
-
-  
-  
-  
+ 
+ 
   
 
 
