@@ -41,7 +41,9 @@ The entire workshop is structured with learning objectives. Corresponding to eac
 
   * Effect Sizes
   
-## Part III: Machine Learning
+  <b>Case Study:</b> Is an Educational Technology Product Effective: Measuring Efficacy
+  
+## Part III: Machine Learning for Learning Analytics
 
 
   * What is Machine Learning?
